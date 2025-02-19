@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.imgur.com/CxVyZhr.gif" width="100%" alt="banner">
+</div>
+
 # 💫 About Me:
 
 - 🔭 Currently working on **Ride Rescue**  
