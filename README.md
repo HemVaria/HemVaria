@@ -2,15 +2,12 @@
   <img src="https://i.imgur.com/CxVyZhr.gif" width="100%" alt="banner">
 </div>
 
-# 💡 About Me:
+#💡 About Me:
 
-🔭 Actively developing a portfolio of full-stack projects, from SaaS concepts to AI-powered tools.
-
-🎨 I craft intuitive, user-centric interfaces (UI/UX) that are both clean and effective.
-
-🚀 As a Product Builder & Full-Stack Creator, I enjoy transforming complex problems into elegant, functional applications.
-
-✨ My work spans the entire product lifecycle, from the initial concept to the final deployment.
+- 🔭 Actively developing a portfolio of full-stack projects, from SaaS concepts to AI-powered tools.
+- 🎨 I craft intuitive, user-centric interfaces (UI/UX) that are both clean and effective.
+- 🚀 As a Product Builder & Full-Stack Creator, I enjoy transforming complex problems into elegant, functional applications.
+- ✨ My work spans the entire product lifecycle, from the initial concept to the final deployment.
 
 
 ## 🌐 Socials:
